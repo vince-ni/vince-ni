@@ -10,7 +10,7 @@ Currently building **[Furizen](https://vince-ni.github.io/#furizen)** — a US D
 
 🤖 **[AI-Workspace](https://vince-ni.github.io/#ai-workspace)** — Personal multi-skill agent stack on Claude Code: 15 active skills, 5 commands, 4 LaunchAgents, 1 Git guardrail hook, 6 MCP integrations. Recently compressed via deliberate complexity-reduction migration: 8 schedulers → 4, 4 hooks → 1, 22 system-state files → 0.
 
-📋 **Open to PM roles** — Currently exploring product manager opportunities at AI-native companies (Anthropic, Sierra AI, Glean, select Chinese AI labs). Open to US relocation.
+📋 **Open to senior PM roles** at builder- and research-driven AI companies. Open to US relocation.
 
 ## A bit about me
 
