@@ -1,29 +1,31 @@
-# Hi, I'm Vince Ni 👋
+# Vince Ni
 
-**Founder · Builder · Product Manager**
+PM who ships by orchestrating AI agents — after 7+ years of 0→1 product work across EdTech, marketplaces, and DTC.
 
-Currently building **[Furizen](https://vince-ni.github.io/#furizen)** — a US DTC dog bed brand in early-launch state — end-to-end as a one-person team. The whole operation runs on a personal AI agent stack I designed and shipped myself.
+**Core thesis:** For AI systems people depend on daily, what you *prevent* matters more than what you enable.
 
-## What I'm working on right now
+## Now
 
-🐕 **[Furizen](https://vince-ni.github.io/#furizen)** — US DTC dog bed brand. Flagship product **Zenest Ridge™ Orthopedic Dog Bed**, built around proprietary **ZephyrTech™** air-fiber technology (10-year warranty on the air-fiber core). Positioned as *"A Calmer Alternative — designed to belong, not to stand out."* Founder's Edition shipped Feb 2026, four Breeder partners seeded, full Shopify storefront live. Public Instagram + paid-ads launch in roll-out.
+- **[AI-Workspace](https://vince-ni.github.io/#ai-workspace)** — Agentic engineering system on Claude Code. 60+ days daily production, constitutional governance, deliberate complexity compression. *Deep dive coming soon.*
+- **[Furizen](https://vince-ni.github.io/#furizen)** — US DTC dog bed brand. Solo end-to-end: product, brand, supply chain, storefront.
+- **[PixelPal](https://github.com/vince-ni/PixelPal)** — AI companion that cares about you, not just your code.
 
-🤖 **[AI-Workspace](https://vince-ni.github.io/#ai-workspace)** — Personal multi-skill agent stack on Claude Code: 15 active skills, 5 commands, 4 LaunchAgents, 1 Git guardrail hook, 6 MCP integrations. Recently compressed via deliberate complexity-reduction migration: 8 schedulers → 4, 4 hooks → 1, 22 system-state files → 0.
+## What I learned from depending on AI daily
 
-📋 **Open to senior PM roles** at builder- and research-driven AI companies. Open to US relocation.
+Most people build AI products for others. I built one for myself and ran it under real consequences for 60+ days. Three things surprised me:
 
-## A bit about me
+1. **Memory drifts silently.** AI-maintained state diverges from ground truth without anyone noticing — until it causes a real incident.
+2. **Two-nines availability means weekly disruptions.** When your workflow depends on a single vendor, 99.26% uptime is not "fine."
+3. **Complexity compounds faster than capability.** The system got better every time I removed something, not when I added something.
 
-7+ years of 0→1 product work across EdTech (Good Kids Education, $100K avg deal size, AI customer service system reaching 78% automation), B2B marketplaces (Haimo Data, recommendation systems lifting CTR 30%), and DTC (Furizen).
+These aren't abstractions — they're operational lessons that changed how I think about AI product design, reliability, and trust.
 
-JHU M.S. Data Analytics & Policy (GPA 3.85, Top 5%); 15 years in the US.
+## Background
 
-The unusual part: I make architecture decisions and ship them in the same head.
+JHU M.S. Data Analytics & Policy (3.85, Top 5%) · CS undergrad · 15 years in the US · Open to US relocation
 
-5 cats. 2 dogs. 0 employees. AI-native operation.
+Exploring senior PM roles in **AI agent infrastructure**, **human-in-the-loop systems**, or **applied AI products**.
 
-## Find me
+---
 
-- 📄 **[vince-ni.github.io](https://vince-ni.github.io)** — full résumé + selected work
-- 💼 [LinkedIn](https://www.linkedin.com/in/shenjunyan-ni-b62a28126/)
-- ✉️ ni.growth@outlook.com
+📄 [vince-ni.github.io](https://vince-ni.github.io) · ✉️ ni.growth@outlook.com · 💼 [LinkedIn](https://www.linkedin.com/in/shenjunyan-ni-b62a28126/)
